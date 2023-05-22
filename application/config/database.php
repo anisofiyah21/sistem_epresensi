@@ -75,10 +75,10 @@ $query_builder = TRUE;
 
 $db['default'] = array(
 	'dsn'	=> '',
-	'hostname' => 'sql308.unaux.com',
-	'username' => 'unaux_34257524',
-	'password' => '0ld0yd9',
-	'database' => 'unaux_34257524_sistem_epresensi',
+	'hostname' => '103.58.102.54 ',
+	'username' => 'epresens_sistem_epresensi ',
+	'password' => '21052000Sql',
+	'database' => 'epresens_sistem_epresensi',
 	'dbdriver' => 'mysqli',
 	'dbprefix' => '',
 	'pconnect' => FALSE,
