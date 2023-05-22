@@ -25,7 +25,7 @@ defined('BASEPATH') or exit('No direct script access allowed');
 */
 // $config['base_url'] = 'https://192.168.75.217/sistempresensi/';
 
-$config['base_url'] = 'http://localhost/sistempresensi/';
+$config['base_url'] = 'https://epresensismkifadah.com/';
 
 /*
 |--------------------------------------------------------------------------
